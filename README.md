@@ -1,16 +1,48 @@
-## Hi there 👋
+Estudante de Desenvolvimento de Sistemas na ETEC Paulistano
+💻 Desenvolvedor Full Stack em aprendizado
+🚀 Apaixonado por tecnologia, programação e criação de projetos web
 
-<!--
-**lucasknohara/lucasknohara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🧠 Sobre Mim
 
-Here are some ideas to get you started:
+Atualmente estudo e desenvolvo projetos utilizando tecnologias voltadas para desenvolvimento web Full Stack.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Tenho experiência prática com:
+
+JavaScript
+Node.js
+MySQL
+HTML
+CSS
+React
+Express.js
+
+Também venho estudando:
+
+APIs REST
+Banco de Dados
+Backend com Node.js
+Integração entre Frontend e Backend
+Estrutura MVC
+🛠️ Tecnologias que utilizo
+Frontend
+🌐 HTML5
+🎨 CSS3
+⚡ JavaScript
+⚛️ React
+Backend
+🟩 Node.js
+⚡ Express.js
+Banco de Dados
+🗄️ MySQL
+📚 Atualmente Estudando
+Desenvolvimento Full Stack
+Arquitetura MVC
+APIs REST
+Autenticação de usuários
+Integração com banco de dados
+React + Node.js
+🚀 Objetivos
+Evoluir como desenvolvedor Full Stack
+Criar projetos completos e profissionais
+Trabalhar na área de tecnologia
+Aprender novas tecnologias constantemente
