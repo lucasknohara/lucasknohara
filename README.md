@@ -107,7 +107,7 @@ Tenho interesse principalmente em oportunidades envolvendo:
 
 💼 **LinkedIn:** [Meu LinkedIn](www.linkedin.com/in/lucas-44a114357)
 
-🐙 **Portfólio:** [Portfólio]([SEU_LINK_GITHUB](https://lucasknohara.github.io/portfolio/))
+🐙 **Portfólio:** [Portfólio](https://lucasknohara.github.io/portfolio/)
 
 ---
 
