@@ -1,48 +1,119 @@
-Estudante de Desenvolvimento de Sistemas na ETEC Paulistano
-💻 Desenvolvedor Full Stack em aprendizado
-🚀 Apaixonado por tecnologia, programação e criação de projetos web
+# 👋 Olá, eu sou o Lucas Kaoru
 
-🧠 Sobre Mim
+🎓 Estudante de **Engenharia de Software na FIAP**
+💻 **Backend Developer** focado em Node.js
+🚀 Construindo APIs, sistemas e projetos para evoluir minhas habilidades em desenvolvimento de software.
 
-Atualmente estudo e desenvolvo projetos utilizando tecnologias voltadas para desenvolvimento web Full Stack.
+## 🧑‍💻 Sobre mim
 
-Tenho experiência prática com:
+Sou estudante de Engenharia de Software e Técnico em Desenvolvimento de Sistemas, com foco atual em **desenvolvimento Backend**.
 
+Tenho experiência acadêmica e prática com desenvolvimento de aplicações utilizando **JavaScript, Node.js, Express e MySQL**, além de conhecimentos em React para desenvolvimento Frontend.
+
+Atualmente, estou aprofundando meus conhecimentos em:
+
+* Arquitetura de aplicações Backend
+* APIs REST
+* Node.js e Express
+* JavaScript moderno
+* MySQL e modelagem de banco de dados
+* Autenticação e autorização
+* Boas práticas e organização de código
+* Git e GitHub
+
+Meu objetivo é evoluir continuamente como desenvolvedor e conquistar minha primeira oportunidade profissional na área de **Backend Development**.
+
+## 🛠️ Tecnologias
+
+### Backend
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=nodedotjs\&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge\&logo=express\&logoColor=white)
+
+### Database
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
+
+### Frontend
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
+
+### Tools
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
+
+## 🚀 Projetos em destaque
+
+### 🏟️ Pingo
+
+Plataforma para encontrar e explorar quadras esportivas, permitindo que usuários descubram locais para praticar esportes e interajam com a comunidade.
+
+**Tecnologias:** React • Node.js • Express • MySQL
+
+Principais funcionalidades:
+
+* 🔎 Busca e localização de quadras
+* ⭐ Avaliações
+* ❤️ Favoritos
+* 📅 Agendamento
+* 🎯 Filtros por esporte
+* 👥 Sistema de usuários
+* 📢 Eventos
+
+**[🔗 Ver projeto](SEU_LINK_DO_PINGO)**
+
+---
+
+### 🔐 API de Autenticação
+
+API desenvolvida para praticar conceitos fundamentais de Backend, incluindo cadastro, login, autenticação e organização de uma aplicação Node.js.
+
+**Tecnologias:** Node.js • Express • MySQL • JavaScript
+
+**[🔗 Ver projeto](SEU_LINK_DA_API)**
+
+---
+
+## 📚 Atualmente estudando
+
+```text
 JavaScript
+   ↓
 Node.js
+   ↓
+Express
+   ↓
+APIs REST
+   ↓
 MySQL
-HTML
-CSS
-React
-Express.js
+   ↓
+Arquitetura Backend
+   ↓
+Boas práticas e projetos reais
+```
 
-Também venho estudando:
+Estou constantemente desenvolvendo projetos e exercícios para transformar conhecimento teórico em prática.
 
-APIs REST
-Banco de Dados
-Backend com Node.js
-Integração entre Frontend e Backend
-Estrutura MVC
-🛠️ Tecnologias que utilizo
-Frontend
-🌐 HTML5
-🎨 CSS3
-⚡ JavaScript
-⚛️ React
-Backend
-🟩 Node.js
-⚡ Express.js
-Banco de Dados
-🗄️ MySQL
-📚 Atualmente Estudando
-Desenvolvimento Full Stack
-Arquitetura MVC
-APIs REST
-Autenticação de usuários
-Integração com banco de dados
-React + Node.js
-🚀 Objetivos
-Evoluir como desenvolvedor Full Stack
-Criar projetos completos e profissionais
-Trabalhar na área de tecnologia
-Aprender novas tecnologias constantemente
+## 🎯 Objetivo profissional
+
+Busco uma oportunidade de **Estágio em Desenvolvimento Backend**, onde possa aplicar meus conhecimentos, aprender com profissionais experientes e contribuir para projetos reais.
+
+Tenho interesse principalmente em oportunidades envolvendo:
+
+**Node.js • JavaScript • APIs • Backend • MySQL**
+
+## 📫 Entre em contato
+
+📧 **Email:** SEU_EMAIL
+
+💼 **LinkedIn:** [Meu LinkedIn](SEU_LINKEDIN)
+
+🐙 **GitHub:** [Lucas Kaoru](SEU_LINK_GITHUB)
+
+---
+
+⭐ Obrigado por visitar meu perfil!
