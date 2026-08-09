@@ -39,7 +39,6 @@ Meu objetivo é evoluir continuamente como desenvolvedor e conquistar minha prim
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
 
 ### Tools
 
@@ -64,8 +63,6 @@ Principais funcionalidades:
 * 👥 Sistema de usuários
 * 📢 Eventos
 
-**[🔗 Ver projeto](SEU_LINK_DO_PINGO)**
-
 ---
 
 ### 🔐 API de Autenticação
@@ -73,8 +70,6 @@ Principais funcionalidades:
 API desenvolvida para praticar conceitos fundamentais de Backend, incluindo cadastro, login, autenticação e organização de uma aplicação Node.js.
 
 **Tecnologias:** Node.js • Express • MySQL • JavaScript
-
-**[🔗 Ver projeto](SEU_LINK_DA_API)**
 
 ---
 
@@ -110,9 +105,9 @@ Tenho interesse principalmente em oportunidades envolvendo:
 
 📧 **Email:** SEU_EMAIL
 
-💼 **LinkedIn:** [Meu LinkedIn](SEU_LINKEDIN)
+💼 **LinkedIn:** [Meu LinkedIn](www.linkedin.com/in/lucas-44a114357)
 
-🐙 **GitHub:** [Lucas Kaoru](SEU_LINK_GITHUB)
+🐙 **Portfólio:** [Lucas Kaoru](SEU_LINK_GITHUB)
 
 ---
 
