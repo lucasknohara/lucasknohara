@@ -1,49 +1,73 @@
 # Olá, eu sou o Lucas Kaoru! 👋
 
-Desenvolvedor Backend em formação com foco na construção de APIs REST robustas, escaláveis e eficientes. Atualmente graduando em **Engenharia de Software na FIAP** e formado em **Desenvolvimento de Sistemas pela ETEC**.
+🎓 Estudante de **Engenharia de Software na FIAP** | Técnico em **Desenvolvimento de Sistemas pela ETEC**  
+💻 Desenvolvedor em formação com foco em **Back-end com Node.js** e construção de APIs REST.
+
+Gosto de aprender desenvolvendo projetos práticos, entender como cada parte funciona e buscar soluções organizadas, confiáveis e fáceis de manter.
 
 ---
 
-### 🚀 Sobre Mim
+### 🚀 Sobre mim
 
-- 🎓 Cursando **Engenharia de Software** na FIAP e formado como Técnico em Desenvolvimento de Sistemas na ETEC.
-- 💻 Focado em desenvolvimento backend com **Node.js, Express e MySQL**, aplicando arquitetura MVC e boas práticas de código.
-- ⚙️ Experiência no desenvolvimento de projetos práticos, como sistemas de gerenciamento de agendamentos (APIs RESTful) e aplicações web responsivas em React.
-- 🎯 Buscando oportunidades como **Estagiário ou Desenvolvedor Backend Júnior**.
-
----
-
-### 🛠️ Tecnologias e Ferramentas
-
-**Backend & Bancos de Dados**
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404D59.svg?style=for-the-badge&logo=express&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-
-**Frontend & Outros**
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+- 🎓 Atualmente curso Engenharia de Software na FIAP e concluí o curso técnico em Desenvolvimento de Sistemas pela ETEC.
+- ⚙️ Tenho experiência prática desenvolvendo APIs REST com **Node.js, Express e MySQL**.
+- 🧩 Já desenvolvi projetos com operações CRUD, autenticação, integração entre front-end e back-end, arquitetura em camadas e operações transacionais no banco de dados.
+- 🌱 Estou aprofundando meus conhecimentos em **TypeScript, NestJS, PostgreSQL, Docker e mensageria**.
+- 🎯 Busco uma oportunidade de **estágio em Desenvolvimento Back-end**, na qual eu possa aprender, contribuir e evoluir tecnicamente.
 
 ---
 
-### 📌 Projetos em Destaque
+### 🛠️ Tecnologias e ferramentas
 
-- 🏀 **[PINGO - Sistema de Quadras](https://github.com/lucasknohara/pingo)**: API backend para gerenciamento e agendamento de quadras esportivas utilizando Node.js, Express e MySQL.
-- 🎥 **[SEP - Web App](https://sep-rose.vercel.app)**: Aplicação web frontend em React.js com persistência de dados local via `localStorage`.
-- 🌿 **[EcoTrend - Plataforma Sustentável](ecomerce-chi-ashy.vercel.app)**: E-commerce de produtos ecológicos desenvolvido em React.js com simulador de carrinho e checkout.
+**Back-end e banco de dados**
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-404D59?style=for-the-badge&logo=express&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+**Front-end**
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+**Ferramentas**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+**Em estudo e aplicação prática**
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ---
 
-### 📊 Minhas Estatísticas no GitHub
+### 📌 Projetos em destaque
+
+- 📋 **[Taskflow — Gerenciador de tarefas Kanban](https://github.com/lucasknohara/taskflow)**  
+  Aplicação full stack inspirada em ferramentas Kanban, criada para organizar tarefas do dia a dia e da faculdade. Conta com autenticação, quadros e colunas, utilizando React no front-end e Node.js, Express e MySQL no back-end.
+
+- 🌿 **[RedePratos — Plataforma de doação de alimentos](https://github.com/lucasknohara/RedePratos)**  
+  Projeto acadêmico da FIAP que conecta doadores a instituições sociais, permitindo cadastrar alimentos, consultar doações e acompanhar solicitações. Desenvolvido com React, Node.js, Express e MySQL.  
+  [Acessar demonstração](https://rede-pratos.vercel.app/)
+
+- 📚 **[Biblioteca — API de gerenciamento de empréstimos](https://github.com/lucasknohara/Biblioteca)**  
+  Projeto back-end para gerenciamento de livros e empréstimos, com operações de retirada e devolução, consultas SQL, transações no banco de dados e testes automatizados.
+
+- 🏀 **[PINGO — Sistema de quadras](https://github.com/lucasknohara/PINGO)**  
+  Projeto desenvolvido durante minha formação técnica, voltado ao gerenciamento e agendamento de quadras esportivas, com API e integração com banco de dados.
+
+---
+
+### 📊 Estatísticas do GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=lucasknohara&show_icons=true&theme=radial&hide_border=true" alt="Estatísticas do GitHub" height="150" />
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=lucasknohara&layout=compact&theme=radial&hide_border=true" alt="Linguagens mais usadas" height="150" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=lucasknohara&show_icons=true&theme=radial&hide_border=true" alt="Estatísticas do GitHub" height="165" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=lucasknohara&layout=compact&theme=radial&hide_border=true" alt="Linguagens mais usadas" height="165" />
 </div>
 
 ---
@@ -53,3 +77,7 @@ Desenvolvedor Backend em formação com foco na construção de APIs REST robust
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-44a114357)
 [![Portfólio](https://img.shields.io/badge/Portfólio-121011?style=for-the-badge&logo=firefox&logoColor=white)](https://lucasknohara.github.io/portfolio/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lucasnohara51@gmail.com)
+
+---
+
+⭐ Obrigado por visitar meu perfil!
